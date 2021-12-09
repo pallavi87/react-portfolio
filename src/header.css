@@ -1,0 +1,34 @@
+header h1{
+    margin: 0;
+   
+
+}
+
+header {
+    margin: 0;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 100px;
+   color:royalblue;
+}
+
+header p{
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+   color:royalblue;
+   margin-bottom: 30px;
+
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    box-shadow: 0 3px 3px;
+    font-weight: 700;
+    background-color: royalblue;
+    border-color: royalblue;
+    padding: 1.2rem 2.5rem;
+  display: inline-block;
+    
+}
